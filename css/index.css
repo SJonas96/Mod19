@@ -9,7 +9,7 @@ body {
   background-color: #800C0C !important;
   background-size: cover;
   z-index:10;
-  font-weight: bolder;
+  font-weight: 500px;
   padding-left: 50px;
   padding-right: 50px;
 }
